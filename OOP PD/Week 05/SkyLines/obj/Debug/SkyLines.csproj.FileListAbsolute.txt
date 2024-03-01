@@ -1,0 +1,7 @@
+C:\Users\Aamir Hashmi\source\repos\SkyLines\obj\Debug\SkyLines.csproj.AssemblyReference.cache
+C:\Users\Aamir Hashmi\source\repos\SkyLines\obj\Debug\SkyLines.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Hashmi\source\repos\SkyLines\bin\Debug\SkyLines.exe.config
+C:\Users\Aamir Hashmi\source\repos\SkyLines\bin\Debug\SkyLines.exe
+C:\Users\Aamir Hashmi\source\repos\SkyLines\bin\Debug\SkyLines.pdb
+C:\Users\Aamir Hashmi\source\repos\SkyLines\obj\Debug\SkyLines.exe
+C:\Users\Aamir Hashmi\source\repos\SkyLines\obj\Debug\SkyLines.pdb
