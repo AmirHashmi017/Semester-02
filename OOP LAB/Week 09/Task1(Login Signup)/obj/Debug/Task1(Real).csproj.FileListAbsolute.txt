@@ -1,0 +1,37 @@
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).exe.config
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).exe
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).pdb
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.AssemblyReference.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.SuggestedBindingRedirects.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Form1.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Form3.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Properties.Resources.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.GenerateResource.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.CoreCompileInputs.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).exe
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).pdb
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.SignUp.resources
+G:\Task1(Real)\bin\Debug\Task1(Real).exe.config
+G:\Task1(Real)\bin\Debug\Task1(Real).exe
+G:\Task1(Real)\bin\Debug\Task1(Real).pdb
+G:\Task1(Real)\obj\Debug\Task1(Real).csproj.AssemblyReference.cache
+G:\Task1(Real)\obj\Debug\Task1_Real_.Form1.resources
+G:\Task1(Real)\obj\Debug\Task1_Real_.SignUp.resources
+G:\Task1(Real)\obj\Debug\Task1_Real_.Form3.resources
+G:\Task1(Real)\obj\Debug\Task1_Real_.Properties.Resources.resources
+G:\Task1(Real)\obj\Debug\Task1(Real).csproj.GenerateResource.cache
+G:\Task1(Real)\obj\Debug\Task1(Real).csproj.CoreCompileInputs.cache
+G:\Task1(Real)\obj\Debug\Task1(Real).exe
+G:\Task1(Real)\obj\Debug\Task1(Real).pdb
+I:\lab 9\Task1(Real)\bin\Debug\Task1(Real).exe.config
+I:\lab 9\Task1(Real)\bin\Debug\Task1(Real).exe
+I:\lab 9\Task1(Real)\bin\Debug\Task1(Real).pdb
+I:\lab 9\Task1(Real)\obj\Debug\Task1(Real).csproj.AssemblyReference.cache
+I:\lab 9\Task1(Real)\obj\Debug\Task1_Real_.Form1.resources
+I:\lab 9\Task1(Real)\obj\Debug\Task1_Real_.SignUp.resources
+I:\lab 9\Task1(Real)\obj\Debug\Task1_Real_.Form3.resources
+I:\lab 9\Task1(Real)\obj\Debug\Task1_Real_.Properties.Resources.resources
+I:\lab 9\Task1(Real)\obj\Debug\Task1(Real).csproj.GenerateResource.cache
+I:\lab 9\Task1(Real)\obj\Debug\Task1(Real).csproj.CoreCompileInputs.cache
+I:\lab 9\Task1(Real)\obj\Debug\Task1(Real).exe
+I:\lab 9\Task1(Real)\obj\Debug\Task1(Real).pdb
