@@ -1,0 +1,10 @@
+D:\UET\OOP\Lab\lab 9\grid\bin\Debug\grid.exe.config
+D:\UET\OOP\Lab\lab 9\grid\bin\Debug\grid.exe
+D:\UET\OOP\Lab\lab 9\grid\bin\Debug\grid.pdb
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.csproj.AssemblyReference.cache
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.Form1.resources
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.Properties.Resources.resources
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.csproj.GenerateResource.cache
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.csproj.CoreCompileInputs.cache
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.exe
+D:\UET\OOP\Lab\lab 9\grid\obj\Debug\grid.pdb
