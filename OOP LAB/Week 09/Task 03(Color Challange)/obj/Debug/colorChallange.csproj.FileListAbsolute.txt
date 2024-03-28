@@ -1,0 +1,10 @@
+D:\UET\OOP\Lab\lab 9\colorChallange\bin\Debug\colorChallange.exe.config
+D:\UET\OOP\Lab\lab 9\colorChallange\bin\Debug\colorChallange.exe
+D:\UET\OOP\Lab\lab 9\colorChallange\bin\Debug\colorChallange.pdb
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.csproj.AssemblyReference.cache
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.Form1.resources
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.Properties.Resources.resources
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.csproj.GenerateResource.cache
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.csproj.CoreCompileInputs.cache
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.exe
+D:\UET\OOP\Lab\lab 9\colorChallange\obj\Debug\colorChallange.pdb
