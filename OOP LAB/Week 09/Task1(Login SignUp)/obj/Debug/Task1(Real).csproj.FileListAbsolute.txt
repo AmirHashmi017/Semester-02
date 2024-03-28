@@ -1,0 +1,13 @@
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).exe.config
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).exe
+C:\Users\CSLAB1\source\repos\Task1(Real)\bin\Debug\Task1(Real).pdb
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.AssemblyReference.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.SuggestedBindingRedirects.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Form1.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Form3.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.Properties.Resources.resources
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.GenerateResource.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).csproj.CoreCompileInputs.cache
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).exe
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1(Real).pdb
+C:\Users\CSLAB1\source\repos\Task1(Real)\obj\Debug\Task1_Real_.SignUp.resources
