@@ -1,0 +1,13 @@
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.csproj.AssemblyReference.cache
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.Form1.resources
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.Properties.Resources.resources
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.csproj.GenerateResource.cache
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Hashmi\source\repos\GravityGame\bin\Debug\GravityGame.exe.config
+C:\Users\Aamir Hashmi\source\repos\GravityGame\bin\Debug\GravityGame.exe
+C:\Users\Aamir Hashmi\source\repos\GravityGame\bin\Debug\GravityGame.pdb
+C:\Users\Aamir Hashmi\source\repos\GravityGame\bin\Debug\GravityGameLibrary.dll
+C:\Users\Aamir Hashmi\source\repos\GravityGame\bin\Debug\GravityGameLibrary.pdb
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.csproj.CopyComplete
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.exe
+C:\Users\Aamir Hashmi\source\repos\GravityGame\obj\Debug\GravityGame.pdb

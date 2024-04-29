@@ -1,0 +1,6 @@
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\bin\Debug\GravityGameLibrary.dll
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\bin\Debug\GravityGameLibrary.pdb
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\obj\Debug\GravityGameLibrary.csproj.AssemblyReference.cache
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\obj\Debug\GravityGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\obj\Debug\GravityGameLibrary.dll
+C:\Users\Aamir Hashmi\source\repos\GravityGameLibrary\obj\Debug\GravityGameLibrary.pdb
